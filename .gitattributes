@@ -1,0 +1,7 @@
+* text=auto
+.gitattributes text eol=lf
+.gitignore text eol=lf
+*.c text eol=lf
+*.md text eol=lf
+*.docx binary
+*.pdf binary
